@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kushagraasati78.github.io/notes-c40dvh/sitemap.xml
